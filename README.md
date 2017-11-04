@@ -12,7 +12,7 @@ instructions:
 this program use files ..
 attention to programm's comments!
 
-//\\
+//
 توضیحات:
 این برنامه با استفاده از فایل ها کار میکند.
 به کامنت های برنامه دقت کنید :)
